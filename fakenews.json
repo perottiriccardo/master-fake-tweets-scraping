@@ -1,0 +1,390 @@
+{
+    "fake-news": [
+        {
+            "name": "VirusArtificiale",
+            "description": "Il coronavirus \u00c3\u00a8 un virus creato artificialmente nei laboratori di Wuhan in Cina o in Canada",
+            "keywords": [
+                "artificiale",
+                "wuhan",
+                "laboratori di wuhan",
+                "cina",
+                "laboratori, canada"
+            ],
+            "fake-links": [
+                "https://www.radical-bio.com/sanita/stefano-montanari-il-coronavirus-e-stato-creato-in-laboratorio-ed-e-sfuggito-al-controllo-militare/",
+                "https://lacrunadellago.net/2020/04/23/le-email-hackerate-di-wuhan-e-bill-gatescovid-19-fatto-in-laboratorio-e-rilasciato-intenzionalmente/",
+                "https://autismovaccini.org/2020/02/21/coronavirus-morto-frank-plummer-direttore-del-laboratorio-canadese-sotto-indagine/",
+                "https://lacrunadellago.net/2020/01/30/il-coronavirus-e-unarma-batteriologica-della-cina/",
+                "https://www.ilprimatonazionale.it/cronaca/coronavirus-studio-2015-getterebbe-dubbi-origine-naturale-146065/",
+                "https://www.alessandriaoggi.info/sito/2020/03/05/montanari-non-temete-il-coronavirus-quello-che-vi-dicono-e-falso/",
+                "http://www.asianews.it/notizie-it/(Asia-dell%27Est,Cina)-%C3%83%CB%86-plausibile-l%C3%A2%E2%82%AC%E2%84%A2ipotesi-del-coronavirus-originato-da-un-laboratorio-a-Wuhan-49550.html",
+                "https://veraitalia.blogspot.com/2020/03/coronavirus-cinese-un-aggiornamento.html?spref=fb&m=1",
+                "https://www.auretitalia.org/2020/04/01/questo-virus-non-e-un-fenomeno-di-origine-naturale-dott-rashid-buttar/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=jgUk-uIz22U"
+            ],
+            "debunking-links": [
+                "https://www.greenreport.it/news/scienze-e-ricerca/il-coronavirus-covid-19-non-e-sfuggito-da-un-laboratorio-lorigine-dellepidemia-e-naturale/",
+                "https://www.ilfoglio.it/scienza/2020/02/05/news/la-bufala-del-coronavirus-creato-in-laboratorio-rilanciata-dai-giornali-italiani-300336/",
+                "https://it.insideover.com/societa/lo-studio-di-nature-il-coronavirus-non-e-nato-in-laboratorio.html",
+                "https://www.repubblica.it/salute/medicina-e-ricerca/2020/03/19/news/coronavirus_l_analisi_del_suo_genoma_svela_l_origine_naturale-251680316/",
+                "https://www.ilgazzettino.it/lettere_al_direttore/lettere_direttore_virus_teorie_complottiste_laboratorio_naturale-5136533.html",
+                "https://www.wired.it/scienza/medicina/2020/05/14/nuovo-coronavirus-pipistrelli/",
+                "https://www.ilmessaggero.it/salute/ricerca/coronavirus_laboratorio_studio_nature_pipistrelli-5128292.html",
+                "https://www.ansa.it/canale_scienza_tecnica/notizie/biotech/2020/03/25/nature-il-coronavirus-e-nato-in-natura-non-in-laboratorio-_3b2834cb-66d7-45f7-9cac-27c77f962023.html"
+            ]
+        },
+        {
+            "name": "TGLeonardo",
+            "description": "Servizio TG3 Leonardo del 16 11 2015, il quale parla di studi legati alla SARS in laboratori di Wuhan, in Cina",
+            "keywords": [
+                "leonardo",
+                "tgleonardo",
+                "laboratori di wuhan",
+                "cina"
+            ],
+            "fake-links": [
+                "https://www.byoblu.com/2020/01/28/tgbyoblu-11-il-mistero-del-coronavirus-dubbi-sulla-genesi-della-pandemia/",
+                "https://www.crotone24news.it/cronaca/14886-video-choc-su-raitre-i-cinesi-preparano-un-supervirus-dai-pipistrelli.html",
+                "https://alfiokrancic.com/2020/03/25/tgr-leonardo-e-lesperimento-cinese-del-2015-gli-scienziati-nulla-a-che-vedere-col-coronavirus/",
+                "https://liguriaoggi.it/2020/03/25/coronavirus-tg-rai-leonardo-aveva-predetto-lepidemia-video/",
+                "https://telenord.it/covid-19-nuova-polemica-social-sarebbe-nato-da-esperimenti-cinesi-sul-virus-della-sars",
+                "https://www.abruzzolive.it/super-coronavirus-creato-in-laboratorio-nel-2015-ecco-cosa-ce-di-vero-ma-la-cina-ora-deve-chiarire-video/",
+                "https://www.giornaledibrescia.it/rubriche/scienza/tg-leonardo-e-quel-super-virus-creato-in-un-laboratorio-cinese-1.3469297",
+                "https://www.leggo.it/italia/cronache/video_leonardo_2015_coronavirus_laboratorio_cinese_oggi-5132859.html",
+                "https://www.rivieraoggi.it/2020/03/25/305484/il-super-virus-polmonare-da-pipistrelli-e-topi-cosi-tg-leonardo-open-non-e-il-covid-19/",
+                "https://www.zerounotv.it/coronavirus-prodotto-dai-cinesi-ecco-linquietante-servizio-in-onda-sulla-rai-nel-2015/",
+                "https://www.lavocedeltrentino.it/2020/03/26/coronavirus-servizio-del-tgr-leonardo-del-2015-laboratorio-cinese-creo-supervirus-polmonare/",
+                "https://www.radioradio.it/2020/03/video-shock-sapevano-creato-il-supervirus-servizio-di-rai-3-2015-coronavirus/?cn-reloaded=1",
+                "https://www.parmadaily.it/il-tgr-leonardo-rai-parlava-gia-del-coronavirus-nel-2015-un-supervirus-creato-in-laboratorio-in-cina-video/",
+                "https://www.citynow.it/video/tgr-leonardo-2015-annuncia-coronavirus-invenzione-cinesi-laboratorio/",
+                "https://www.itasportpress.it/video/coronavirus-rai-3-nel-2015-aveva-anticipato-supervirus-polmonare-creato-dai-cinesi-in-laboratorio/",
+                "https://sfero.me/article/tg-leonardo-secondo-video-supervirus-laboratorio",
+                "http://www.genteditalia.org/2020/03/25/tgr-leonardo-e-quel-servizio-sul-supervirus-cinese-del-2015-video/",
+                "https://www.ingenio-web.it/26321-coronavirus-e-nato-in-laboratorio--lo-sconvolgente-tg-rai3-del-2015",
+                "https://livesicilia.it/2020/03/25/il-covid-in-un-video-del-2015-adesso-la-cina-deve-chiarire/",
+                "https://www.teleclubitalia.it/189022/tg-leonardo-del-2015-parla-del-coronavirus-coronavirus-creato-in-un-laboratorio-cinese/",
+                "https://www.facebook.com/salviniofficial/videos/-video-del-2015-i-cinesi-producono-il-supercoronavirus-/2752303571489985/",
+                "https://www.ilprimatonazionale.it/cronaca/lallarme-della-rai-nel-2015-cina-pericolosa-ricerca-su-coronavirus-in-pipistrelli-video-150984/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=uwyU5P5AuMk",
+                "https://www.youtube.com/watch?v=u-KBTMfrD2M",
+                "https://www.youtube.com/watch?v=0mwaXsyNUKw",
+                "https://www.youtube.com/watch?v=KALC5AolYWk",
+                "https://www.youtube.com/watch?v=zCOx-hewCcc",
+                "https://www.youtube.com/watch?v=I02nQXjROVQ",
+                "https://www.youtube.com/watch?v=soz861DdifQ",
+                "https://www.youtube.com/watch?v=2AoECEiXgnQ",
+                "https://www.youtube.com/watch?v=NM5LB1jzFY4",
+                "https://www.youtube.com/watch?v=1pNzwWXuy6k",
+                "https://www.youtube.com/watch?v=yXgCGcuvHMw",
+                "https://www.youtube.com/watch?v=ek7IKTwNniI",
+                "https://www.youtube.com/watch?v=E3XbkEnI-6k",
+                "https://www.youtube.com/watch?v=7EMim0_4-80",
+                "https://www.youtube.com/watch?v=KgaSwAHZbis",
+                "https://www.youtube.com/watch?v=Jb-137Y0qF4",
+                "https://www.youtube.com/watch?v=GlfoHUudYgU",
+                "https://www.youtube.com/watch?v=q7jMWM6yr5A",
+                "https://www.youtube.com/watch?v=5cqwAndU3Uw",
+                "https://www.youtube.com/watch?v=qEp64z8dJRs",
+                "https://www.youtube.com/watch?v=I02nQXjROVQ",
+                "https://www.youtube.com/watch?v=soz861DdifQ",
+                "https://www.youtube.com/watch?v=2AoECEiXgnQ",
+                "https://www.youtube.com/watch?v=NM5LB1jzFY4",
+                "https://www.youtube.com/watch?v=1pNzwWXuy6k",
+                "https://www.youtube.com/watch?v=yXgCGcuvHMw",
+                "https://www.youtube.com/watch?v=ek7IKTwNniI",
+                "https://www.youtube.com/watch?v=E3XbkEnI-6k",
+                "https://www.youtube.com/watch?v=7EMim0_4-80",
+                "https://www.youtube.com/watch?v=KgaSwAHZbis",
+                "https://www.youtube.com/watch?v=Jb-137Y0qF4",
+                "https://www.youtube.com/watch?v=GlfoHUudYgU",
+                "https://www.youtube.com/watch?v=q7jMWM6yr5A",
+                "https://www.youtube.com/watch?v=5cqwAndU3Uw",
+                "https://www.youtube.com/watch?v=qEp64z8dJRs"
+            ],
+            "debunking-links": [
+                "https://www.ansa.it/sito/notizie/politica/2020/03/25/coronavirus-il-caso-del-video-del-tgr-leonardo-2015-sul-supervirus-creato-in-cina_7adf8316-6ca5-42cd-96de-c18f7fb53595.html",
+                "https://www.corriere.it/video-articoli/2020/03/25/caso-servizio-rai-2015-virus-creato-cina-laboratorio-comunita-scientifica-smentisce/f4bd0380-6ebf-11ea-925b-a0c3cdbe1130.shtml",
+                "https://www.agi.it/cronaca/news/2020-03-25/coronavirus-tg-leonardo-7861064/",
+                "https://sciencecue.it/servizo-tg-leonardo-covid19/18527/",
+                "https://www.rsi.ch/news/mondo/La-bufala-del-virus-creato-in-laboratorio-12881849.html",
+                "https://www.youtube.com/watch?v=COd0TUXe-lQ",
+                "https://www.wired.it/scienza/medicina/2020/03/26/tgr-leonardo-coronavirus-laboratorio/?refresh_ce=",
+                "https://www.ilsole24ore.com/art/coronavirus-lega-inciampa-complottismo-ecco-perche-video-tgr-leonardo-non-riguarda-covid-19-ADRIyvF",
+                "https://www.ilmessaggero.it/salute/ricerca/tg_leonardo_2015_supervirus_coronavirus-5132875.html",
+                "https://www.repubblica.it/cronaca/2020/03/25/news/coronavirus_tg_leonardo_esperimento_cinese_pipistrelli-252312426/",
+                "https://www.repubblica.it/cronaca/2020/03/26/news/tg_leonardo_non_ha_scoperto_il_laboratorio_che_creo_il_virus-252324050/",
+                "https://facta.news/notizia-vera/2020/03/30/il-tg-leonardo-del-2015-e-vero-ma-non-dimostra-che-il-virus-del-covid-19-sia-nato-in-laboratorio-3/",
+                "https://www.butac.it/panico-di-massa-per-un-video-di-3-anni-fa-tgr-leonardo-e-covid-19/",
+                "https://www.bufale.net/il-16-novembre-2015-il-tgr-leonardo-parlo-di-coronavirus-ma-nessuna-correlazione-con-covid-19/",
+                "https://www.fanpage.it/attualita/il-supervirus-del-tgr-leonardo-non-e-il-coronavirus-che-non-e-stato-creato-in-laboratorio/"
+            ]
+        },
+        {
+            "name": "Montagnier",
+            "description": "Il virus del Covid-19 contiene sequenze simili all\u00e2\u20ac\u2122Hiv, lasciando intendere che si tratti di un virus costruito artificialmente",
+            "keywords": [
+                "montagnier",
+                "hiv",
+                "aids",
+                "cina",
+                "artificiale"
+            ],
+            "fake-links": [
+                "https://www.agi.it/estero/news/2020-04-17/coronavirus-montagnier-wuhan-8364636/",
+                "https://www.unmondoditaliani.com/covid-19-sparira-da-solo-secondo-luc-montagnier-premio-nobel-scopritore-dellhiv/",
+                "https://www.ilprimatonazionale.it/cronaca/nobel-montagnier-coronavirus-creato-laboratorio-wuhan-studiavano-aids-153471/",
+                "https://www.liberoquotidiano.it/news/esteri/22257634/coronavirus_complotto_nobel_montagnier_cercavano_vaccino_scappato_laboratorio.html",
+                "https://www.nicolaporro.it/quel-premio-nobel-ignorato-sul-virus-in-laboratorio/",
+                "https://www.lasicilia.it/news/covid-19/335787/covid-19-anche-per-il-premio-nobel-luc-montagnier-e-un-virus-fuggito-dal-laboratorio-di-wuhan.html",
+                "https://informaresenzacensure.blogspot.com/search?q=montagnier",
+                "https://itacanotizie.it/2020/04/20/il-nobel-montagnier-covid-nato-in-laboratorio-volevano-realizzare-un-vaccino-anti-aids-video/",
+                "https://oggi24ore.com/premio-nobel-montagnier-svela-al-mondo-la-provenienza-del-coronavirus/",
+                "https://traterraecielo.live/2020/04/20/coronavirus-aids-e-5g/",
+                "https://www.lecodelsud.it/coronavirus-il-nobel-montagnier-creato-in-laboratorio-con-sequenze-di-hiv-potrebbe-estinguersi-da-solo",
+                "https://www.funweek.it/fotoracconto/il-premio-nobel-luc-montagnier-sul-coronavirus-si-distruggera-da-solo/5/luc-montagnier-il-coronavirus-e-il-5g/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=JXW2BNFzAtQ",
+                "https://www.youtube.com/watch?v=B-qRAIIG8U8",
+                "https://www.youtube.com/watch?v=PP2JuXxjrPg",
+                "https://www.youtube.com/watch?v=bSXu6XYZUv4",
+                "https://www.youtube.com/watch?v=usyQgPU-VrI"
+            ],
+            "debunking-links": [
+                "https://www.ilpost.it/2020/04/21/montagnier-coronavirus-hiv/",
+                "https://www.lastampa.it/esteri/2020/04/21/news/il-virus-del-covid-19-fabbricato-in-laboratorio-a-partire-da-quello-dell-aids-1.38745412",
+                "https://www.open.online/2020/04/17/il-nuovo-coronavirus-e-stato-creato-in-laboratorio-per-trovare-un-vaccino-contro-lhiv-lo-dice-montagnier-ma-non-e-cosi/",
+                "https://www.repubblica.it/salute/2017/11/08/news/luc_montagner_contro_i_vaccini-180598407/",
+                "https://www.ilfoglio.it/scienza/2020/04/20/news/una-montagnier-di-fuffa-314019/",
+                "https://facta.news/storie/2020/04/21/le-posizioni-di-montagnier-sul-nuovo-coronavirus-sono-pseudoscienza/",
+                "https://www.butac.it/primato-nazionale-montagnier-e-il-sars-cov-2/",
+                "https://www.ilfattoquotidiano.it/2020/04/21/coronavirus-10mila-scienziati-contro-il-nobel-montagnier-falsa-e-infondata-lipotesi-che-il-covid-sia-nato-in-un-laboratorio-di-wuhan/5777753/",
+                "https://www.open.online/2020/04/17/il-nuovo-coronavirus-e-stato-creato-in-laboratorio-per-trovare-un-vaccino-contro-lhiv-lo-dice-montagnier-ma-non-e-cosi/"
+            ]
+        },
+        {
+            "name": "CuraPlasma",
+            "description": "La cura al plasma non viene diffusa allo scopo di finanziare il vaccino",
+            "keywords": [
+                "vaccino",
+                "plasma",
+                "dedonno",
+                "tarro",
+                "nas"
+            ],
+            "fake-links": [
+                "https://it.businessinsider.com/giulio-tarro-coronavirus-non-e-ebola-il-vaccino-non-serve-la-sanita-e-crisi-per-colpa-di-chi-ha-dimezzato-le-terapie-intensive/",
+                "https://gazzettadimantova.gelocal.it/mantova/cronaca/2020/05/03/news/mantova-la-cura-del-plasma-finisce-sotto-la-lente-dei-nas-1.38798052",
+                "https://www.secoloditalia.it/2020/05/pamela-incinta-curata-con-il-plasma-e-arrivano-i-nas-in-ospedale-lo-pneumologo-de-donno-non-mi-intimidite/",
+                "https://www.radioradio.it/2020/05/cura-plasma-vaccino-terapia-de-donno-mantova-nas-polemiche/",
+                "https://www.affaritaliani.it/cronache/coronavirus-de-donno-plasma-iperimmune-funziona-ma-hanno-chiamato-i-nas-670271.html",
+                "https://www.lantidiplomatico.it/dettnews-covid_i_nas_a_mantova_per_la_cura_con_il_plasma_dott_de_donno__non_mi_scoraggeranno/29296_34700/",
+                "https://www.agropolinews.it/in-primo-piano/tarro-il-plasma-e-il-no-dei-poteri-forti/",
+                "https://www.ilriformista.it/il-plasma-non-costa-nulla-ma-big-pharma-ha-interesse-nel-vaccino-laccusa-di-tarro-94391/",
+                "https://www.corrieresalentino.it/2020/04/tarro-contro-il-sistema-il-sangue-dei-guariti-cura-i-malati-ma-alle-cause-farmaceutiche-interessa-il-vaccino/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=x4jkLwAaJZg",
+                "https://www.youtube.com/watch?v=x4jkLwAaJZg",
+                "https://www.youtube.com/watch?v=0q0riYI9q94",
+                "https://www.youtube.com/watch?v=JCfAbJnmfM4"
+            ],
+            "debunking-links": [
+                "https://www.polesine24.it/veneto/2020/05/05/news/nas-nel-reparto-che-salva-vite-con-il-plasma-e-una-bufala-88503/",
+                "https://www.lebufaledellarete.com/bufala-il-governo-manda-i-nas-a-mantova-per-far-chiudere-reparto-terapia-al-plasma/",
+                "https://www.butac.it/nas-a-mantova-de-donno-censurato-sui-social/",
+                "https://www.ilsussidiario.net/news/plasma-iperimmune-nas-allospedale-di-mantova-ma-e-una-bufala-cose-successo/2018739/",
+                "https://coronapp.it/fake-news/bufale-net-il-governo-manda-i-nas-a-mantova-contro-de-donno-e-cura-al-plasma-anti-coronavirus-non-e-cosi/",
+                "https://www.giornalettismo.com/blitz-nas-plasmaterapia-bufala/",
+                "https://www.bufale.net/il-governo-manda-i-nas-a-mantova-contro-de-donno-e-cura-al-plasma-anti-coronavirus-non-e-cosi/",
+                "https://www.open.online/2020/05/05/coronavirus-il-governo-manda-i-nas-a-mantova-per-chiudere-il-reparto-che-cura-i-pazienti-con-il-plasma-no/",
+                "https://facta.news/notizia-falsa/2020/05/11/no-il-governo-non-ha-mandato-i-nas-a-mantova-per-far-chiudere-il-reparto-di-terapia-al-plasma/"
+            ]
+        },
+        {
+            "name": "5G",
+            "description": "Tecnologia 5G veicola il COVID",
+            "keywords": [
+                "5G"
+            ],
+            "fake-links": [
+                "https://www.liberoquotidiano.it/news/esteri/22206913/coronavirus_luc_montagnier_5g_onde_potrebbero_aver_alimentato_agente_patogeno.html",
+                "https://www.iltempo.it/cronache/2020/05/07/news/coronavirus-contagio-pandemia-colpa-antenne-5g-luciano-mion-lam-abbassa-difese-immunitarie-1323457/",
+                "https://www.lavocedeltrentino.it/2020/03/27/inchiesta-corona-virus-e-5g-allora-il-collegamento-esiste-davvero/",
+                "https://scenarieconomici.it/pubmed-provato-scientificamente-il-nesso-tra-5g-e-coronavirus/",
+                "https://www.vocidallastrada.org/2020/07/covid-19-e-5g-pubmed-e-biolife-ritirano.html",
+                "https://www.databaseitalia.it/nuovo-studio-rivela-la-possibile-correlazione-tra-5g-e-diffusione-del-covid19-nelle-cellule/",
+                "https://www.orticaweb.it/coronavirus-e-5g-le-relazioni-pericolose/",
+                "http://www.tankerenemy.com/2020/07/pubmed-provato-scientificamente-il.html#.X2GvxD9xeMo",
+                "https://www.oltre.tv/luc-montagnier-nobel-medicina-5g-virus/",
+                "https://www.ilgazzettinovesuviano.com/2020/07/24/mentre-arriva-finalmente-lo-studio-su-5g-e-coronavirus-il-governo-limita-i-poteri-ai-sindaci/",
+                "https://www.inuovivespri.it/2020/07/28/la-possibile-correlazione-tra-5g-e-coronavirus-diventa-un-giallo-serale/",
+                "http://sulatestagiannilannes.blogspot.com/2020/08/5g-pericolo-censurato.html",
+                "https://oasisana.com/2020/02/19/coronavirus-e-5g-ce-correlazione-lo-studio-il-video/?fbclid=IwAR0UdUUW7THqcXymx5V_NtrX5rR9T88dxEJDCb1jycQ41gLO8I5hW1hPmEU"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=yhfK2wl4-jw",
+                "https://www.youtube.com/watch?v=2r71_3crV64",
+                "https://www.youtube.com/watch?v=RGasZReG9s4",
+                "https://www.youtube.com/watch?v=tGANTTG1UjM"
+            ],
+            "debunking-links": [
+                "https://www.butac.it/5g-e-coronavirus/",
+                "https://www.ilmattino.it/societa/persone/alessandro_meluzzi_microchip_nascosti_nelle_mascherine_ultime_notizie-5332379.html",
+                "https://www.corrierecomunicazioni.it/telco/5g/5g-e-coronavirus-la-sconcertante-intervista-ai-venditori-di-braccialetti/",
+                "https://www.ilfoglio.it/tecnologia/2020/04/10/news/da-dove-arriva-la-fandonia-che-il-5g-ha-qualcosa-a-che-fare-con-il-coronavirus-312326/",
+                "https://www.agi.it/estero/news/2020-04-04/coronavirus-incendiate-torri-5g-bufale-legami-virus-8182765/",
+                "https://www.hdblog.it/mobile/articoli/n519143/coronavirus-5g-diffusione-fake-news-antenne-uk/",
+                "https://www.bufale.net/coronavirus-e-5g-ce-correlazione/",
+                "https://www.ilmattino.it/napoli/cultura/5g_diffusione_contagio_da_coronavirus_prof_pasquino_notizia_falsa_senza_nessun_dato_scientifico-5166033.html",
+                "https://ilmanifesto.it/il-5g-causa-il-coronavirus-ma-e-una-bufala/",
+                "https://innovazione.tiscali.it/news/articoli/5g-covid-bufala/",
+                "https://www.ilpost.it/2020/04/09/5g-coronavirus/",
+                "https://www.butac.it/la-copertura-del-5g-e-la-diffusione-dei-contagi-da-covid-19/",
+                "https://www.ilgiornale.it/news/cronache/covid-ed-i-legami-5g-notizia-totalmente-inventata-1871607.html",
+                "https://www.repubblica.it/cronaca/2020/03/23/news/coronavirus_5g_fake_news-252079518/",
+                "https://www.repubblica.it/dossier/esteri/parlamento-europeo/2020/07/03/news/dalla_salute_del_premier_alle_torri_5g_le_fake_news_di_forze_ostili_sulla_gran_bretagna-260842623/",
+                "https://www.ilgiornale.it/news/cronache/covid-ed-i-legami-5g-notizia-totalmente-inventata-1871607.html",
+                "https://www.greenreport.it/news/comunicazione/itu-covid-19-e-5g-una-bufala-senza-basi-tecniche/",
+                "https://assoprovider.it/5g-causa-coronavirus-le-bufale-sulla-tecnologia/"
+            ]
+        },
+        {
+            "name": "BillGates",
+            "description": "Bill Gates ha predetto l'epidemia da Covid-19 in un intervento del 2015. Finanzia le aziende farmaceutiche per un tornaconto dal vaccino. Ipotesi e teorie correlate.",
+            "keywords": [
+                "Bill Gates",
+                "bill",
+                "gates",
+                "vaccino"
+            ],
+            "fake-links": [
+                "https://dailypost.ng/2020/05/04/bill-gate-offered-house-of-reps-10mbribe-for-speedy-passage-of-compulsory-vaccine-bill-cuppalleges/?fbclid=IwAR0UbT5TJqFYUeKKgTWu5k2y84ZqX3CuytQfLH4Kow8NXtef9U95XVwAEkk",
+                "https://ilformat.info/2020/04/04/bill-gates-oms-e-5g-cosa-si-nasconde-dietro-il-coronavirus/",
+                "http://fonteufficiale.com/dalweb/salute-ultima-ora-bill-gates-aveva-previsto-il-coronavirus",
+                "https://www.popoffquotidiano.it/2020/04/16/covid-malaria-agricoltura-africani-cavie-di-bill-e-melinda-gates/",
+                "https://lacrunadellago.net/2020/02/29/la-risposta-al-corriere-bill-gates-che-guadagna-dai-vaccini-non-e-un-complotto/",
+                "https://ilformat.info/2020/04/08/coronavirus-il-vaccino-finanziato-da-bill-gates-testato-in-usa-chi-sono-i-veri-complottisti/",
+                "https://www.radical-bio.com/vaccini/la-denuncia-di-robert-f-kennedy-jr-sul-piano-vaccinale-globale-di-bill-gates-e-la-sua-richiesta-di-immunita/",
+                "https://www.radioradio.it/2020/05/linquietante-profezia-di-bill-gates-e-piu-che-una-coincidenza-fusaro/",
+                "https://www.radioradio.it/2020/05/bill-gates-chiama-conte-risponde-sottratti-150-milioni-a-famiglie-e-imprese-per-i-vaccini/",
+                "https://www.databaseitalia.it/bill-gates-lultimo-ostacolo-alla-distribuzione-di-un-vaccino-covid-19-sara-di-convincere-le-persone-a-prenderlo/",
+                "https://autismovaccini.org/2020/06/26/come-bill-gates-ha-monopolizzato-la-salute-globale/",
+                "https://autismovaccini.org/2020/06/27/il-programma-di-bill-gates-per-vaccinare-il-mondo/",
+                "https://www.libero-pensiero.it/approfondimenti/incredibile-lunione-europea-ha-venduto-la-nostra-salute-a-bill-gates/",
+                "http://informaresenzacensure.blogspot.com/2020/04/leffetto-bill-gates-il-vaccino-dtp.html",
+                "https://www.mag24.es/2020/04/05/non-vogliamo-persone-guarite-ma-polli-da-vaccinare-bill-gates-senza-ritegno-spiega-chiaramente-il-piano-della-sua-finta-fondazione-creata-solo-per-non-pagare-tasse/",
+                "http://www.lavocedellevoci.it/2020/05/03/raccolta-ue-per-il-vaccino-bill-gates-dirige-lorchestra/",
+                "https://it.sott.net/article/2102-L-ossessione-di-Bill-Gates-per-i-Vaccini",
+                "http://sulatestagiannilannes.blogspot.com/2020/05/bill-gates-ordina-la-vaccinazione.html",
+                "https://www.italiaatavola.net/coronavirus/coronavirus/2020/4/7/bill-gates-finanzia-vaccino-ma-ricordate-event201/66597/",
+                "https://www.jedanews.com/tutti-i-crimini-di-bill-gates-496-000-bambini-paralizzati-in-india-ed-altro-ancora/",
+                "https://www.laverita.info/il-miliardario-con-le-mani-sul-vaccino-vuole-diventare-il-nuovo-bill-gates-2646127282.html",
+                "http://archive.is/Z6Doe",
+                "https://www.radioradio.it/2020/05/linquietante-profezia-di-bill-gates-e-piu-che-una-coincidenza-fusaro/?cn-reloaded=1",
+                "http://web.archive.org/web/20160117021033/http://www.attiviamoci.it/il-lapsus-di-bill-gates-che-ammette-i-vaccini-servono-per-diminuire-la-popolazione/",
+                "https://www.radioradio.it/2020/05/vaccini-adhanom-fauci-e-bill-gates-salute-mondiale-interessi/?cn-reloaded=1"
+            ],
+            "videos": [
+                "https://videos.files.wordpress.com/oa4KZ8aH/il-programma-di-bill-gates-per-vaccinare-il-mondo_dvd.mp4",
+                "https://www.youtube.com/watch?v=Mt2TD_gGoZY",
+                "https://www.youtube.com/watch?v=2g43NX7ygGg",
+                "https://www.youtube.com/watch?v=ZAeafB3LKGg"
+            ],
+            "debunking-links": [
+                "https://facta.news/notizia-falsa/2020/05/13/no-nel-2014-bill-gates-non-ha-brevettato-il-vaccino-contro-la-covid-19/",
+                "https://www.nextquotidiano.it/microchip-sottocutaneo-vaccino-coronavirus-la-bufala-su-bill-gates-e-conte/",
+                "https://www.bufale.net/lunga-serie-di-bufale-di-sara-cunial-bill-gates-lo-sterminatore-e-non-solo-chi-e-laccusata-di-vilipendio/",
+                "https://www.valigiablu.it/bill-gates-soros-vaccini-complotto/",
+                "https://facta.news/notizia-falsa/2020/05/06/non-e-vero-che-bill-gates-ha-ammesso-che-i-vaccini-servono-a-sterilizzare-e-ridurre-la-popolazione/",
+                "https://www.bufale.net/no-vax-credono-a-bill-gates-che-lascia-litalia-se-non-facciamo-il-vaccino-anti-coronavirus-era-ora/",
+                "https://www.bufale.net/bill-gates-ha-pagato-per-far-dichiarare-il-coronavirus-una-pandemia-pratico-esempio-di-falsa-causa/",
+                "https://www.bufale.net/bill-gates-vuole-modificarvi-il-dna-fate-sottoscrivere-al-medico-di-base-il-modulo-di-responsabilita/",
+                "https://www.bufale.net/latto-di-accusa-formale-degli-usa-contro-bill-gates-e-loms-per-genocidio-e-falsa-pandemia-ancora-bufale-in-salsa-q/",
+                "https://www.bufale.net/bill-gates-annuncia-che-impiantera-i-microchip-per-combattere-il-covid-19-e-per-tracciare-le-vaccinazioni/",
+                "https://www.bufale.net/coronavirus-al-via-i-test-sugli-umani-per-il-vaccino-finanziato-da-bill-gates-corriere-della-sera-colui-che-aveva-predetto-la-pandemia-ora-ha-anche-il-vaccino/",
+                "https://www.ilfattoquotidiano.it/2020/02/27/coronavirus-le-gigantesche-bufale-complottiste-che-girano-su-whatsapp-da-bill-gates-sapeva-al-cinese-co-a-tosse/5719063/",
+                "https://tg24.sky.it/tecnologia/2020/04/20/coronavirus-fake-news-bill-gates",
+                "https://www.butac.it/700-000-vittime-dalla-vaccinazione-per-coronavirus/",
+                "https://www.butac.it/bill-gates-il-coronavirus-e-i-complotti-credibili/",
+                "https://www.butac.it/il-coronavirus-i-brevetti-bill-gates-e-i-complotti/",
+                "https://facta.news/storie/2020/05/14/perche-bill-gates-e-diventato-il-bersaglio-perfetto-per-le-bufale-sul-coronavirus/",
+                "https://www.repubblica.it/tecnologia/social-network/2020/02/02/news/coronavirus_da_bill_gates_alla_candeggina_tutte_le_bufale_e_le_contromisure_dei_social-247405805/",
+                "https://www.repubblica.it/tecnologia/social-network/2020/04/20/news/gates_e_il_bersaglio_n_1_dei_cospirazionisti_sorpassa_perfino_la_bufala_covid-5g-254516815/"
+            ]
+        },
+        {
+            "name": "CospirazioniEsperimentoSociale",
+            "description": "Il COVID \u00c3\u00a8 in realt\u00c3\u00a0 un esperimento sociale, per costringerci a casa e vedere se obbediamo.",
+            "keywords": [
+                "Esperimento Sociale"
+            ],
+            "fake-links": [
+                "https://gmnotizie.com/2020/03/15/coronavirus-cosa-ce-dietro/",
+                "https://www.radioradio.it/2020/07/denunciamo-per-procurato-allarme-e-una-strategia-del-terrore-per-metterci-in-attesa-messianica-del-vaccino-magistrato-giorgianni/",
+                "https://www.radioradio.it/2020/06/meluzzi-quando-comanda-una-certa-organizzazione-i-cretini-sono-al-potere/",
+                "https://www.radioradio.it/2020/05/perucchietti-sono-riusciti-in-questa-operazione-perche-ci-hanno-manipolato-per-anni/",
+                "https://lacrunadellago.net/2020/04/25/le-autopsie-di-bergamoil-problema-principale-non-era-il-coronavirus/",
+                "https://lacrunadellago.net/2020/04/27/il-colonnello-kvachkov-ex-dei-servizi-segreti-militari-russicoronavirus-operazione-terroristica-per-controllare-la-popolazione-mondiale/",
+                "https://www.databaseitalia.it/il-progetto-del-nuovo-ordine-mondiale-attraverso-una-pandemia-parola-di-jacques-attali/",
+                "https://www.databaseitalia.it/spunta-il-disturbo-psichiatrico-per-chi-non-ha-paura-del-covid-attenzione-alle-derive-totalitarie-pseudo-scientifiche/",
+                "https://www.databaseitalia.it/video-i-risultati-delle-autopsie-il-covid-non-e-diverso-da-un-qualunque-virus-influenzale/",
+                "https://www.databaseitalia.it/massoneria-e-pandemia-la-libera-muratoria-italiana-e-moralmente-morta-con-il-lockdown/",
+                "https://www.radioradio.it/2020/07/sara-cunial-scatenata-in-parlamento-%e2%96%ba-covid-innocuo-e-uno-stato-di-emergenza-che-non-esiste/",
+                "https://www.databaseitalia.it/sperimentazione-sul-vaccino-anti-covid-19-tre-reazioni-avverse-su-45-pazienti/",
+                "https://www.databaseitalia.it/dott-paolo-bellavite-si-sfrutta-la-paura-da-covid19-per-introdurre-un-nuovo-obbligo-vaccinale/",
+                "http://www.tankerenemy.com/2020/03/virus-in-fabula.html#.X2GwGT9xeMo",
+                "https://www.romait.it/covid-19-ubbidire-e-zitti-l-associazione-di-burioni-contro-byoblu-e-montanari.html"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=qsLvEv10rpA",
+                "https://www.youtube.com/watch?v=n2USC8Qrjug",
+                "https://www.youtube.com/watch?v=oXAh3h_e8qM",
+                "https://www.youtube.com/watch?v=8Vd-VHpNt8s"
+            ],
+			"debunking-links": []
+        },
+        {
+            "name": "Negazionismo",
+            "description": "Selezione di negazionismo del COVID. ",
+            "keywords": [""],
+            "fake-links": [
+                "https://www.fronteampio.it/coronavirus-montanari-denunciato-per-le-dichiarazioni-a-byoblu/",
+                "https://www.imolaoggi.it/2020/03/02/coronavirus-intervista-al-dott-stefano-montanari/",
+                "https://www.lavocedibolzano.it/coronavirus-la-posizione-shock-dello-scienziato-montanari/",
+                "https://www.affaritaliani.it/cronache/coronavirus-una-bufala-660556.html",
+                "https://www.lavocedeltrentino.it/2020/03/22/coronavirus-la-posizione-shock-dello-scienziato-montanari/",
+                "https://www.affaritaliani.it/cronache/stefano-montanari-tutto-quello-che-non-ci-hanno-detto-sul-virus-video-681703.html",
+                "https://www.byoblu.com/2020/03/19/immunodepressi-per-legge-stefano-montanari-byoblu24/",
+                "https://www.stefanomontanari.net/coronavirus-che-fare/",
+                "https://www.stefanomontanari.net/lha-detto-la-tibbu/",
+                "https://www.stefanomontanari.net/fate-presto/",
+                "https://www.vitalmicroscopio.net/2020/05/28/la-coppia-ribelle/",
+                "https://www.vitalmicroscopio.net/2020/05/08/magri-e-vaccinati/",
+                "https://www.vitalmicroscopio.net/2020/03/25/come-ci-stiamo-difendendo-dal-coronavirus/",
+                "https://www.vitalmicroscopio.net/2020/02/29/coronavirus-quello-non-sappiamo/",
+                "https://www.stefanomontanari.net/ecco-lintervista-che-e-stata-censurata/",
+                "https://www.stefanomontanari.net/la-farsa-delle-mascherine/",
+                "https://disinformazione.it/2020/03/17/intervista-al-dottor-stefano-montanari/",
+                "http://www.lavocedellevoci.it/2020/03/21/covid-19-il-paradosso-di-stefano-montanari/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=qJJj6QnNNWU",
+                "https://www.youtube.com/watch?v=trSlE2y8iok",
+                "https://www.youtube.com/watch?v=lpHCxQcmKD0",
+                "https://www.youtube.com/watch?v=t_ub8R5l73w",
+                "https://www.youtube.com/watch?v=1yleF_MyjwA",
+                "https://www.youtube.com/watch?v=qjbHh75tPms",
+				"https://www.youtube.com/watch?v=rIqtaArUajM"
+            ],
+            "debunking-links": [
+                "https://www.butac.it/messora-spiana-i-debunkers/",
+                "https://www.ilfattoquotidiano.it/2020/04/24/il-coronavirus-rafforza-le-teorie-del-complotto-ma-chi-ci-guadagna-davvero/5780684/"
+            ]
+        }
+    ]
+}
